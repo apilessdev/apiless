@@ -1,0 +1,16 @@
+{
+  "name": "@apiless/monorepo",
+  "version": "1.0.0",
+  "private": true,
+  "description": "All about the API-less architecture",
+  "keywords": [],
+  "author": "Manuel Vila <hi@mvila.me>",
+  "license": "MIT",
+  "repository": "https://github.com/apilessdev/apiless",
+  "scripts": {},
+  "prettier": "@mvila/prettierrc",
+  "devDependencies": {
+    "@mvila/prettierrc": "^1.1.0",
+    "prettier": "^2.1.2"
+  }
+}

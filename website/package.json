@@ -1,0 +1,12 @@
+{
+  "name": "@apiless/website",
+  "version": "1.0.0",
+  "private": true,
+  "author": "Manuel Vila <hi@mvila.me>",
+  "license": "MIT",
+  "scripts": {
+    "deploy": "(cd ./frontend && npm run deploy)",
+    "postinstall": "(cd ./frontend && npm install)",
+    "update": "(cd ./frontend && npm update)"
+  }
+}

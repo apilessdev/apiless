@@ -1,0 +1,14 @@
+{
+  "name": "@apiless/website-frontend",
+  "version": "1.0.0",
+  "private": true,
+  "author": "Manuel Vila <hi@mvila.me>",
+  "license": "MIT",
+  "scripts": {
+    "deploy": "simple-deployment"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "simple-deployment": "^0.1.41"
+  }
+}
