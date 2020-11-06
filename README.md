@@ -4,11 +4,19 @@
 	<br>
 </p>
 
-> All about the API-less architecture.
-
-## Introduction
+## API-Less Architecture
 
 [...]
+
+## Libraries and Frameworks
+
+### JavaScript/TypeScript
+
+| Product                           | Product type | API type        | Real time      | Since |
+| --------------------------------- | ------------ | --------------- | -------------- | :---: |
+| [Meteor](https://www.meteor.com/) | Framework    | Procedural      | Yes            | 2012  |
+| [Layr](https://layrjs.com/)       | Library      | Object-oriented | On the roadmap | 2019  |
+| [Blitz.js](https://blitzjs.com/)  | Framework    | Procedural      | No             | 2020  |
 
 ## Contributing
 
