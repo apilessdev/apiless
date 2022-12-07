@@ -42,6 +42,7 @@ A growing number of libraries and frameworks allow to implement the API-less arc
 | [Meteor](https://www.meteor.com/) | Framework    | Procedural      | Yes            | Yes            | 2012  |
 | [Layr](https://layrjs.com/)       | Library      | Object-oriented | On the roadmap | Yes            | 2019  |
 | [Blitz.js](https://blitzjs.com/)  | Framework    | Procedural      | No             | On the roadmap | 2020  |
+| [Telefunc](https://telefunc.com/) | Library      | Procedural      | On the roadmap | Yes            | 2021  |
 
 ## Contributing
 
